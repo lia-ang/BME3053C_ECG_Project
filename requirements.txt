@@ -1,0 +1,5 @@
+wfdb
+transformers
+datasets
+scikit-learn
+huggingface_hub[hf_xet]
