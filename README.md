@@ -21,3 +21,16 @@ ECGTeam_data.zip Creation and Upload Steps:
         git add ECGTeam_data.zip
         git commit -m "Add ECG arrhythmia metadata files (zipped)"
         git push
+
+ECGTeam_data/ecg-arrhythmia Folder Creation:
+1. Created new folder for storing unziped files
+2. unzip ECGTeam_data.zip
+
+        unzip ECGTeam_data.zip -d /workspaces/BME3053C_ECG_Project/ECGTeam_Data/ecg-arrhythmia
+
+Runing the Code:
+1. Make a Codespace on Main
+2. Install libraries
+
+        pip install -r requirements.txt
+3. Run cells
