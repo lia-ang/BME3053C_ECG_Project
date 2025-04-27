@@ -33,4 +33,4 @@ Runing the Code:
 2. Install libraries
 
         pip install -r requirements.txt
-3. Run cells
+3. Run cells in final_project_DistilBERT.ipynb
