@@ -1,6 +1,8 @@
 # BME3053C_ECG_Project
 Final project for BME3053C S2025
 
+Spotlight Video Link: https://youtu.be/646yRe8Uyb0
+
 ECGTeam_data.zip Creation and Upload Steps:
 1. Created a clean folder for storing relevant metadata: 
         
