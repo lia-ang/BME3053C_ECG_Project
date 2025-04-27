@@ -1,9 +1,6 @@
 # BME3053C_ECG_Project
 Final project for BME3053C S2025
 
-Install:
-pip install notebook ipykernel
-
 ECGTeam_data.zip Creation and Upload Steps:
 1. Created a clean folder for storing relevant metadata: 
         
