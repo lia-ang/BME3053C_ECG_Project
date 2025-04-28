@@ -30,7 +30,7 @@ ECGTeam_data/ecg-arrhythmia Folder Creation:
 
         unzip ECGTeam_data.zip -d /workspaces/BME3053C_ECG_Project/ECGTeam_Data/ecg-arrhythmia
 
-Runing the Code:
+Running the Code:
 1. Make a Codespace on Main
 2. Install libraries
 
